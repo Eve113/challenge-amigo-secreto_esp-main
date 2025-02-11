@@ -3,8 +3,6 @@
 ## Descripción
 Este proyecto es una aplicación web interactiva que permite a los usuarios organizar un juego de "Amigo Secreto". Los participantes pueden ingresar sus nombres, visualizarlos en una lista y realizar un sorteo aleatorio para determinar quién es su "Amigo Secreto".
 
-Este proyecto es un Challenge de Alura, desarrollado por **Evelyn Pareja Rios**, estudiante del curso **ONE-Alura**.
-
 ## Estructura del Proyecto
 El proyecto está compuesto por los siguientes archivos:
 
